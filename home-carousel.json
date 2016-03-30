@@ -3,27 +3,27 @@
         [
 			{
             "url":"http://www1.development.mcdonalds.com/GMA/gma/gma_5/dev/carousel-images/MCD_VD_Home_BannerAd_ADB.png",
-            "itemLink": "mcdmobileapp://externalURL/http://www.rmhc.org/"
+            "itemLink": "mcdmobileapp://restaurantLocator"
 			},
 
             {
             "url":"http://www1.development.mcdonalds.com/GMA/gma/gma_5/dev/carousel-images/MCD_VD_Home_BannerAd_BigMac.png", 
-			"itemLink": "mcdmobileapp://externalURL/http://www.rmhc.org/"
+			"itemLink": "mcdmobileapp://nutrition"
 			},
 
             {
             "url":"http://www1.development.mcdonalds.com/GMA/gma/gma_5/dev/carousel-images/MCD_VD_Home_BannerAd_McCafe.png",
-			"itemLink": "mcdmobileapp://order"                           
+			"itemLink": "mcdmobileapp://nutritionDetails/200066"                           
 			},
 
 			{
             "url":"http://www1.development.mcdonalds.com/GMA/gma/gma_5/dev/carousel-images/MCD_VD_Home_BannerAd_McPick.png",
-			"itemLink": "mcdmobileapp://order"
+			"itemLink": "mcdmobileapp://account"
 			},
 			
             {
             "url":"http://www1.development.mcdonalds.com/GMA/gma/gma_5/dev/carousel-images/MCD_VD_Home_BannerAd_QPC.png",
-			"itemLink": "mcdmobileapp://order"
+			"itemLink": "mcdmobileapp://dealDetails/503"
             }
 
         ]
