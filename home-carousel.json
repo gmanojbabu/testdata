@@ -4,7 +4,6 @@
 			{
             "url":"http://www1.development.mcdonalds.com/GMA/gma/gma_5/dev/carousel-images/MCD_VD_Home_BannerAd_ADB.png",
 			},
-
             {
             "url":"http://www1.development.mcdonalds.com/GMA/gma/gma_5/dev/carousel-images/MCD_VD_Home_BannerAd_BigMac.png", 
 			},
@@ -18,7 +17,6 @@
             "url":"http://www1.development.mcdonalds.com/GMA/gma/gma_5/dev/carousel-images/MCD_VD_Home_BannerAd_McPick.png",
 			"itemLink": "mcdmobileapp://account"
 			},
-			
             {
             "url":"http://www1.development.mcdonalds.com/GMA/gma/gma_5/dev/carousel-images/MCD_VD_Home_BannerAd_QPC.png",
 			"itemLink": "mcdmobileapp://dealDetails/503"
