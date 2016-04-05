@@ -3,12 +3,10 @@
         [
 			{
             "url":"http://www1.development.mcdonalds.com/GMA/gma/gma_5/dev/carousel-images/MCD_VD_Home_BannerAd_ADB.png",
-            "itemLink": "mcdmobileapp://restaurantLocator"
 			},
 
             {
             "url":"http://www1.development.mcdonalds.com/GMA/gma/gma_5/dev/carousel-images/MCD_VD_Home_BannerAd_BigMac.png", 
-			"itemLink": "mcdmobileapp://nutrition"
 			},
 
             {
